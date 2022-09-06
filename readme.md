@@ -1,0 +1,1 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=22&pause=800&color=3A86FF&background=FF1AA500&width=435&lines=I+am+getting+to+my+goal+a+little+at+a+time.+.+." alt="Typing SVG" /></a>
