@@ -14,17 +14,29 @@ Here are some ideas to get you started:
 
 </div>
 
+---
+
 <div align = "center">
   
-### Halloo there 👋 Welcome to my page.  I'm Lora.  An aspiring Web Designer/ Frontend web developer
-  
+# Hi there 👋 Welcome to my page.  I'm Lora. 
+*An aspiring Web Designer/ Frontend Web Developer*
 </div>
 
 <!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
-- 👩‍💻 I’m currently working as Presales techsupport.
+- 👩‍💻 I’m currently working as Presales techsupport
 - 🌱 I’m currently learning SASS and Javascript
 - 👩 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I used to crochet baby beanies and boots/shoes and sell them.
 
+---
+### Languages and Tools
 
+---
+<div align = "center">
+  
+[![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiramarol&theme=merko)](https://github.com/eiramarol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol&theme=merko&layout=compact)](https://github.com/eiramarol/github-readme-stats)
 
+</div>
+
+---
