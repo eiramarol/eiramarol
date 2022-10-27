@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 
 <div align = "center">
   
-### Halloo there 👋 Welcome to my page.  I'm Lora.  An aspiring web designer/ Frontend web developer
+### Halloo there 👋 Welcome to my page.  I'm Lora.  An aspiring Web Designer/ Frontend web developer
   
 </div>
 
-- 🔭 I’m currently working as Presales techsupport.
+<!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
+- 👩‍💻 I’m currently working as Presales techsupport.
 - 🌱 I’m currently learning SASS and Javascript
-- :
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: She/Her/Hers
+- 👩 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I used to crochet baby beanies and boots/shoes and sell them.
 
 
