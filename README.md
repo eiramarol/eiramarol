@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=28&pause=2000&color=17FFEE&background=FF1AA500&width=435&lines=I'm+A+Work+In+Progress.+.+.;getting+to+my+goal+a+little+at+a+time+.+.+.)](https://git.io/typing-svg)
 
 
