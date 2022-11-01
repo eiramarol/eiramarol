@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align = "center">
   
 # Hi there 👋 Welcome to my page.  I'm Lora. 
-*An aspiring Web Designer/ Frontend Web Developer*
+*An aspiring Frontend Web Developer*
 </div>
 
 <!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
