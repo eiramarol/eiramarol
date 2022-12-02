@@ -52,3 +52,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
+#### Mini Projects:<br >
+[Udemy - Museum of Candy](https://eiramarol.github.io/MuseumOfCandy/#home) <br >
+[Frontend Mentor - Product preview card component](https://www.frontendmentor.io/solutions/productpreviewcard-1G-fMtF2Qm) <br >
+[Freecodecamp - Product Landing page](https://eiramarol.github.io/product-landing) <br />
+[Technical Documentation](https://eiramarol.github.io/technical-documentation)
