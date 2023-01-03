@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
 - 👩‍💻 I’m currently working as Presales techsupport
-- 🌱 I’m currently learning SASS and Javascript
+- 🌱 I’m currently learning Javascript
 - 👩 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I used to crochet baby beanies and boots/shoes and sell them.
 
