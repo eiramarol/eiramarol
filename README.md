@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   
 # Hi there 👋 Welcome to my page.  I'm Lora. 
 *An aspiring Frontend Web Developer*
+
+[![wakatime](https://wakatime.com/badge/user/01eeb911-497f-4b0d-8750-53be28b810a2.svg)](https://wakatime.com/@01eeb911-497f-4b0d-8750-53be28b810a2)
 </div>
 
 <!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
@@ -44,11 +46,10 @@ Here are some ideas to get you started:
 </p>          
 
 ---
-<div align = "center">
-  
-[![Lora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiramarol)](https://github.com/eiramarol/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol&layout=compact)](https://github.com/eiramarol/github-readme-stats)
+<div align = "left">
 </div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol)](https://github.com/eiramarol/github-readme-stats)
 
 ---
 #### Mini Projects:<br >
