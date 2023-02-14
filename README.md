@@ -46,9 +46,8 @@ Here are some ideas to get you started:
 ---
 <div align = "center">
   
-<!-- [![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiramarol&theme=merko)](https://github.com/eiramarol/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol&theme=merko&layout=compact)](https://github.com/eiramarol/github-readme-stats)
- -->
+[![Lora's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eiramarol)](https://github.com/eiramarol/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol&layout=compact)](https://github.com/eiramarol/github-readme-stats)
 </div>
 
 ---
