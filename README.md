@@ -41,10 +41,12 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=45 height=45 alt="vscode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=45 height=45 alt="figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=45 height=45 alt="canva" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=45 height=45 alt="php" />
+          
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width=45 height=45 alt="wordpress" /> -->
             
 </p>          
-
+php
 ---
 <div align = "left">
 </div>
