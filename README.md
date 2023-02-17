@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <div align = "left">
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol)](https://github.com/eiramarol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol&hide_progress=true)](https://github.com/eiramarol/github-readme-stats)
 
 ---
 #### Mini Projects:<br >
