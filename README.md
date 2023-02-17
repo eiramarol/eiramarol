@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width=45 height=45 alt="wordpress" /> -->
             
 </p>          
-php
----
+
 <div align = "left">
 </div>
   
