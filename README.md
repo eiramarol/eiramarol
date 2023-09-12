@@ -53,8 +53,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol&hide_progress=true)](https://github.com/eiramarol/github-readme-stats)
 
 ---
-<!-- #### Mini Projects:<br >
-
+ #### Mini Projects:<be >
+ [Eat Happy by Pats](https://eiramarol.github.io/EatHappyByPats/) <br />
+ [Museum of Candy](https://eiramarol.github.io/MuseumOfCandy/) <br />
+ [Technical Documentation](https://eiramarol.github.io/TechnicalDocumentation/) <br />
+ [Matchy Matchy](https://eiramarol.github.io/MatchyMatchy/)
+<!--
 [Frontend Mentor - Product preview card component](https://www.frontendmentor.io/solutions/productpreviewcard-1G-fMtF2Qm) <br >
 [Freecodecamp - Product Landing page](https://eiramarol.github.io/product-landing) <br />
  -->
