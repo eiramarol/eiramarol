@@ -19,16 +19,15 @@ Here are some ideas to get you started:
 <div align = "center">
   
 # Hi there 👋 Welcome to my page.  I'm Lora. 
-*An aspiring Frontend Web Developer*
+*An aspiring QA Automation Engineer*
 
 [![wakatime](https://wakatime.com/badge/user/01eeb911-497f-4b0d-8750-53be28b810a2.svg)](https://wakatime.com/@01eeb911-497f-4b0d-8750-53be28b810a2)
 </div>
 
 <!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
-- 👩‍💻 I’m currently working as Presales techsupport
+- 👩‍💻 I’m currently working as a Presales tech support
 - 🌱 I’m currently learning Selenium Webdriver
-- 👩 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I used to crochet baby beanies and boots/shoes and sell them.
+
 
 ---
 ### Some Tools I Have Used and Learned
