@@ -55,10 +55,12 @@ Here are some ideas to get you started:
 
 ---
  #### Mini Projects:<be >
+  [QA Practice tasks](https://github.com/eiramarol/SoftwareTesting/)<br />
  [Eat Happy by Pats](https://eiramarol.github.io/EatHappyByPats/) <br />
  [Museum of Candy](https://eiramarol.github.io/MuseumOfCandy/) <br />
  [Technical Documentation](https://eiramarol.github.io/TechnicalDocumentation/) <br />
- [Matchy Matchy](https://eiramarol.github.io/MatchyMatchy/)
+ [Matchy Matchy](https://eiramarol.github.io/MatchyMatchy/) <br />
+
 <!--
 [Frontend Mentor - Product preview card component](https://www.frontendmentor.io/solutions/productpreviewcard-1G-fMtF2Qm) <br >
 [Freecodecamp - Product Landing page](https://eiramarol.github.io/product-landing) <br />
