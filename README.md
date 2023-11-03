@@ -9,12 +9,7 @@ Here are some ideas to get you started:
 
 ![alt](https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=28&pause=2000&color=17FFEE&background=FF1AA500&width=435&lines=I'm+A+Work+In+Progress.+.+.;getting+to+my+goal+a+little+at+a+time+.+.+.)](https://git.io/typing-svg)
-
-</div>
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=25&pause=1000&color=17FFEE&center=true&vCenter=true&random=false&width=500&lines=Getting+closer+to+my+goals+one+step+at+a+time...)](https://git.io/typing-svg)
 
 <div align = "center">
   
