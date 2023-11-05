@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 *An aspiring QA Automation Engineer*
 
 [![wakatime](https://wakatime.com/badge/user/01eeb911-497f-4b0d-8750-53be28b810a2.svg)](https://wakatime.com/@01eeb911-497f-4b0d-8750-53be28b810a2)
+
 </div>
 
 <!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
-👩‍💻 I’m currently working as a Presales tech support
+👩‍💻 I’m currently working as a Presales tech support  
 🌱 I’m currently learning Jenkins
 
 
 ---
 ### Some Tools I Have Used and Learned
 
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=45 height=45 alt="HTML5"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=45 height=45 alt="CSS3"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=45 height=45 alt="JavaScript"  />
@@ -43,8 +43,8 @@ Here are some ideas to get you started:
             
 </p>          
 
-<div align = "left">
-</div>
+
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiramarol&hide_progress=true)](https://github.com/eiramarol/github-readme-stats)
 
