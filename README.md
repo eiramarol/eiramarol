@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate. -->
 - 👩‍💻 I’m currently working as a Presales tech support
-- 🌱 I’m currently learning Test Automation Foundations
+- 🌱 I’m currently learning Jenkins
 
 
 ---
