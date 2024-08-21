@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <div align = "center">
   
 # Hi there 👋 Welcome to my page.  I'm Lora. 
-*An aspiring QA Automation Engineer*
+*An aspiring Automation Engineer*
 
 [![wakatime](https://wakatime.com/badge/user/01eeb911-497f-4b0d-8750-53be28b810a2.svg)](https://wakatime.com/@01eeb911-497f-4b0d-8750-53be28b810a2)
 
